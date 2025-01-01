@@ -68,7 +68,7 @@ export function LoginForm2({
       {visible && <AlertDemo desc="Login SuccessFull"/>}
         <Card>
           <CardHeader>
-            <CardTitle className="text-2xl">Login</CardTitle>
+            <CardTitle className="text-2xl text-white">Login</CardTitle>
             <CardDescription>
               Enter your email or username to Login
             </CardDescription>

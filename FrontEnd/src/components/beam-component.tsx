@@ -31,7 +31,7 @@ export function AnimatedBeamDemo() {
 
   return (
     <div
-      className=" mt-32 sm:mt-10 relative flex w-[400px] sm:w-[700px] items-center justify-center overflow-hidden rounded-lg  background p-10 md:shadow-xl"
+      className=" mt-3 sm:mt-10 relative flex w-[400px] sm:w-[700px] items-center justify-center overflow-hidden rounded-lg  background p-10 md:shadow-xl"
       ref={containerRef}
     >
       <div className="flex size-full flex-col items-stretch justify-between gap-10">

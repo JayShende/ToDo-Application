@@ -1,6 +1,6 @@
 import { DialogDemo } from "@/components/add-todo-modal";
 import { CardComponent } from "@/components/content-card";
-import { DefaultDemo } from "@/components/test.2";
+import { DefaultDemo } from "@/components/navbar-1";
 import { DarkModeToggleCheckboxDemo } from "@/components/theme-toggle";
 import { useFetchContent } from "@/hooks/useFetchContent";
 import { useEffect, useState } from "react";
