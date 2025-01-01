@@ -1,0 +1,1 @@
+{"root":["./global.d.ts","./src/index.ts","./src/test.ts","./src/db/database.ts","./src/middleware/usermiddleware.ts","./src/routes/userroute.ts"],"version":"5.7.2"}
